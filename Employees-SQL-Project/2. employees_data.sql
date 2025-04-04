@@ -1,0 +1,22 @@
+INSERT INTO employees(employee_name, department, join_date, salary, manager_id) VALUES
+INSERT INTO employees(employee_name, department, join_date, salary, manager_id) VALUES
+('John Doe', 'IT', '2018-05-20', 75000.00, NULL),
+('Alice Smith', 'HR', '2019-08-15', 60000.00, NULL),
+('David Johnson', 'Finance', '2017-02-10', 85000.00, NULL),
+('Emily Davis', 'Sales', '2020-11-01', 55000.00, NULL),
+('Michael Brown', 'IT', '2021-03-12', 50000.00, 1),
+('Sophia Wilson', 'HR', '2022-07-19', 45000.00, 2),
+('James Taylor', 'Finance', '2023-01-08', 70000.00, 3),
+('Olivia Thomas', 'Sales', '2023-05-25', 48000.00, 4),
+('William Lee', 'IT', '2019-12-20', 65000.00, 1),
+('Isabella White', 'Finance', '2020-04-18', 72000.00, 3),
+('Daniel Harris', 'IT', '2018-09-07', 80000.00, 1),
+('Grace Martin', 'HR', '2021-06-14', 47000.00, 2),
+('Matthew Lewis', 'Sales', '2022-03-30', 52000.00, 4),
+('Ava Walker', 'Finance', '2021-01-22', 68000.00, 3),
+('Henry Hall', 'IT', '2019-10-10', 62000.00, 1),
+('Chloe Allen', 'HR', '2020-08-28', 46000.00, 2),
+('Samuel Young', 'Sales', '2019-07-16', 54000.00, 4),
+('Mia Hernandez', 'Finance', '2023-02-12', 73000.00, 3),
+('Noah King', 'IT', '2022-11-05', 58000.00, 1),
+('Ella Wright', 'Sales', '2021-09-21', 51000.00, 4);
